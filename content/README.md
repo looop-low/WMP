@@ -13,3 +13,4 @@ Each file is a Markdown export of a live doc on claude.ai. The live docs are the
 | [scripts/does-size-matter.md](scripts/does-size-matter.md) | How pianos work · Under the Lid | [Open](https://claude.ai/code/artifact/6a982d60-38a8-4cca-9381-9b9d7cc55d03) |
 | [scripts/is-it-still-a-steinway.md](scripts/is-it-still-a-steinway.md) | Buying & ownership · Buyer's Notebook | [Open](https://claude.ai/code/artifact/cf4da17f-7e48-4fb5-873b-402d78101605) |
 | [scripts/strangest-things-inside-a-piano.md](scripts/strangest-things-inside-a-piano.md) | Fun & challenges · Shop Talk | [Open](https://claude.ai/code/artifact/8ad36324-3c54-4b40-8276-dfb0e49996a0) |
+| [scripts/our-new-sign.md](scripts/our-new-sign.md) | People & community · Good Neighbors | [Open](https://claude.ai/artifact/FGnq46ioicAQTPLo8YjFes) |

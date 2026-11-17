@@ -30,10 +30,10 @@ Lead with the two pillars that make people save and share (buying tips and how p
 
 | Pillar | What it covers | Builds | Already scripted |
 | --- | --- | --- | --- |
-| Buying & ownership | Used-piano checks, brand myths, care, humidity, tuning, moving | Knowledgeable, caring | Used piano; Piano or the name |
-| How pianos work | What's inside, why it sounds the way it does, analogies like the brush video | Knowledgeable, entertaining | Paint with every brush |
-| Fun & challenges | Blind listening tests, guess-the-piano, showroom moments, quick playing clips | Entertaining | — |
-| People & community | Technicians, teachers, students, local performers, university partners | Caring | — |
+| Buying & ownership | Used-piano checks, brand myths, care, humidity, tuning, moving | Knowledgeable, caring | Used piano; Piano or the name; Still a Steinway? |
+| How pianos work | What's inside, why it sounds the way it does, analogies like the brush video | Knowledgeable, entertaining | Paint with every brush; Does size matter? |
+| Fun & challenges | Blind listening tests, guess-the-piano, showroom moments, quick playing clips | Entertaining | Strangest things inside a piano |
+| People & community | Technicians, teachers, students, local performers, university partners, local businesses | Caring | Our new sign |
 | History & heritage | How the piano was invented, famous instruments, how pianos are built | Knowledgeable, entertaining | — |
 
 "Other" categories fold into these: a holiday piano tune goes in Fun, and a technician Q&A goes in People.
@@ -91,6 +91,10 @@ Give each pillar a named series with a consistent title card. Viewers learn what
 - Local performer spotlight
 - First-piano stories, shared with the owner's permission
 
+**Good Neighbors** (People & community)
+
+- Our new sign: thank you, FastSigns and Light Bulb Co ✓
+
 **Piano Past** (History & heritage)
 
 - Who invented the piano, and why it was called "soft-loud"
@@ -132,9 +136,9 @@ Every video we script gets a row here, tagged with its pillar and series, so you
 | Buying & ownership | 3 | 5 | 8 |
 | How pianos work | 2 | 5 | 7 |
 | Fun & challenges | 1 | 13 | 14 |
-| People & community | 0 | 5 | 5 |
+| People & community | 1 | 5 | 6 |
 | History & heritage | 0 | 4 | 4 |
-| **All pillars** | **6** | **32** | **38** |
+| **All pillars** | **7** | **32** | **39** |
 
 **Scripted videos**
 
@@ -146,8 +150,9 @@ Every video we script gets a row here, tagged with its pillar and series, so you
 | Does size matter? | How pianos work | Under the Lid | ~75 s | Unscheduled | [scripts/does-size-matter.md](scripts/does-size-matter.md) |
 | Is it still a Steinway? | Buying & ownership | Buyer's Notebook | ~90 s | Unscheduled | [scripts/is-it-still-a-steinway.md](scripts/is-it-still-a-steinway.md) |
 | Strangest things found inside a piano | Fun & challenges | Shop Talk | ~70 s | Unscheduled | [scripts/strangest-things-inside-a-piano.md](scripts/strangest-things-inside-a-piano.md) |
+| Our new sign | People & community | Good Neighbors | ~60 s | Unscheduled (timely: post soon) | [scripts/our-new-sign.md](scripts/our-new-sign.md) |
 
-**Where the gaps are:** Fun now has its first script and the deepest idea bank. People and History still have no scripts. The Strangest Things interviews double as scouting for Meet the technician, since you'll already be talking with the techs on camera.
+**Where the gaps are:** People & community now has its first script. History is the only pillar with none. The sign video is timely, so it's worth posting soon rather than holding it for the launch stockpile.
 
 ## Cadence, platforms & measuring
 
